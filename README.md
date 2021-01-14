@@ -5,7 +5,7 @@
   <img align="left" alt="Arpan's LinkdeIn" width="24px" src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/linkedin_circle-512.png" />
 </a>
 <a href="https://www.github.com/gucifer/">
-  <img align="left" alt="Arpan's LinkdeIn" width="24px" src="https://www.iconsdb.com/icons/preview/white/github-11-xxl.png" />
+  <img align="left" alt="Arpan's Github" width="24px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />
 </a>
 <br />
 <br />
