@@ -2,10 +2,13 @@
 <h1 title="hehehe"> Hey 👋, I'm Arpan!</h1>
 </div>
 <a href="https://www.linkedin.com/in/arpan-parikh-8a2584138/">
-  <img align="left" alt="Arpan's LinkdeIn" width="24px" src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/linkedin_circle-512.png" />
+  <img align="left" alt="Arpan's LinkdeIn" width="24px" src="https://i.pinimg.com/originals/4a/8d/44/4a8d44d6f63a89d7de81add721e7cf22.png" />
 </a>
 <a href="https://www.github.com/gucifer/">
   <img align="left" alt="Arpan's Github" width="24px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />
+</a>
+<a href="https://codeforces.com/profile/arpan.parikh">
+  <img align="left" alt="Arpan's Codeforces" width="24px" src="https://1.bp.blogspot.com/-TVyQdlirkIo/WndhEfwrSiI/AAAAAAAABPY/VXbshzfTtlU9iKx-ubWrBhVz3GfrDWt6gCPcBGAYYCw/s1600/codeforce.png" />
 </a>
 <br />
 <br />
