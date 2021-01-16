@@ -37,7 +37,7 @@ A **Software Engineering Student** 🚀 at BITS Pilani, from Ahmedabad, Gujarat.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_django_icon_130645.png"></code>
-<code><img height="20" src="https://cdn.tutsplus.com/net/uploads/2013/06/flask-preview-400.jpg"></code>
+<code><img height="20" src="https://symbols.getvecta.com/stencil_80/57_flask-icon.eaaa141ab4.svg"></code>
 
 <code><img height="20" src="https://symbols.getvecta.com/stencil_92/77_pytorch-icon.3e1681b72a.svg"></code>
 <code><img height="20" src="https://symbols.getvecta.com/stencil_97/43_tensorflow-icon.f7092db2bd.svg"></code>
