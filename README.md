@@ -13,19 +13,19 @@
 <br />
 <br />
 
-A **Software Engineering Student** 🚀 at BITS Pilani, from Ahmedabad, Gujarat.
+A **Graduate Student** 🚀 at Georgia Tech, from Ahmedabad, Gujarat.
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 **About Me!**
 
-- 👨🏽‍💻 I’m currently doing a thesis on text summarization.
-- 🌱 I’m currently exploring Python with a big interest in Machine Learning and Data Science.
-- 🤔 My interests are Deep Learning, NLP, MERN stack development, Competitive Programming.
-- 💼 I’m pursuing a Bachelor's degree in Computer Science.
+- 👨🏽‍💻 I’m currently in my second year as a Computer Science graduate student.
+- 🌱 I’m currently open to job opportunities for May 2024 with a big interest in Machine Learning and Data Science.
+- 🤔 My interests are Computer Vision, Natural Language Processing, full stack development, and Competitive Programming.
+- 💼 I’m pursuing a Master's degree in Computer Science with a Machine Learning Specialization.
 - 💬 Ask me about anything, I love to answer!
-- 📫 Email me at [f2016082@pilani.bits-pilani.ac.in](mailto:f2016082@pilani.bits-pilani.ac.in).
-- 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1kjItj4Dq-zxGvpqnyPxH2bLJRts21EOB/view?usp=sharing) to get more info.
+- 📫 Email me at [aparikh@gatech.edu](mailto:aparikh@gatech.edu).
+- 📝 See my [Resume](https://drive.google.com/file/d/1kjItj4Dq-zxGvpqnyPxH2bLJRts21EOB/view?usp=sharing) to get more info.
 
 **Languages and Tools:**
 
